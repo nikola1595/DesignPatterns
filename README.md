@@ -1,7 +1,7 @@
 ### Implementations of various design patterns written in C#.
 
 | Pattern type | Pattern name |
-| ------------ | ------------ |
+| :---: | :---: |
 | Behavioral   | [Command design pattern](https://github.com/nikola1595/DesignPatterns/blob/master/Behavioral/CommandDesignPattern.cs) |
 | Behavioral   | [Iterator design pattern](https://github.com/nikola1595/DesignPatterns/blob/master/Behavioral/IteratorDesignPattern.cs) |
 | Behavioral   | [Observer design pattern](https://github.com/nikola1595/DesignPatterns/blob/master/Behavioral/ObserverDesignPattern.cs) |
